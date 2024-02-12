@@ -1,0 +1,19 @@
+.add-recipe-button {
+  display: block;
+  margin: 4rem auto 1rem;
+  width: 20%;
+  padding: 1rem 0.5rem;
+  border: none;
+  background-color: #054c92;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bolder;
+}
+.home-page{
+   background-color: #fff9f2;
+}
+
+.add-recipe-button:hover {
+  background-color: #2f81d9;
+}

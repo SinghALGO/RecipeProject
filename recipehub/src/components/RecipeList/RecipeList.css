@@ -1,0 +1,16 @@
+.recipe-list {
+  list-style-type: none;
+  padding: 50px 70px;
+  background-color: #fff9f2;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.recipe-list:after {
+  content: "";
+  flex: 0 1 30%;
+  margin: 5px;
+}

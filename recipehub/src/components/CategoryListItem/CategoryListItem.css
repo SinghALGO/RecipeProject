@@ -1,0 +1,16 @@
+.topic-list__item {
+  background-color: #052341;
+  margin-right: 10px;
+  padding: 0 15px;
+  padding-top: 7px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  font-size: medium;
+  cursor: pointer;
+  transition: background-color 0.3s; /* Add transition */
+}
+
+.topic-list__item:hover {
+  background-color: #34495e; /* Same hover color as navbar */
+  color: white; /* Text color becomes white on hover */
+}
